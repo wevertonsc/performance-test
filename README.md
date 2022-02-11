@@ -1,4 +1,4 @@
-# permance-test
+# performance-test
 Performance test ARM x Intel in AWS environment using Kafka - Msc. Software Solution Architecture - TU Dublin
 
 # Objectives
